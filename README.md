@@ -1,25 +1,90 @@
-## Tech Stack
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&text=Samsul&fontSize=70&fontColor=ffffff&color=0:0f172a,50:2563eb,100:06b6d4&animation=fadeIn"/>
 
-### Languages
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<h1 align="center">👋 Welcome to My GitHub Profile</h1>
+
+<h3 align="center">💻 Software Developer | 🖥️ Desktop Developer | 🔧 C# & .NET Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Software+Developer;C%23+and+WinForms+Developer;ASP.NET+Core+Learner;Python+Developer;Desktop+App+Builder;Always+Learning+and+Building" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🚀 Passionate about building desktop applications
+- 🖥️ Developing management systems using C# and WinForms
+- 🔧 Currently learning ASP.NET Core for web development
+- 🐍 Using Python for scripting and backend projects
+- 🛡️ Interested in Cybersecurity fundamentals
+- 📚 Continuously improving my skills and learning new technologies
+- 🎯 Working toward becoming a professional software engineer
+- ⚡ Love solving real-world problems through clean and useful software
+
+---
+
+## 🚀 Technologies & Tools
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet,python" />
+</p>
 
 ### Desktop Development
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-<img src="https://img.shields.io/badge/WinForms-512BD4?style=for-the-badge&logo=windows&logoColor=white" alt="WinForms" />
+<p>
+<img src="https://skillicons.dev/icons?i=cs,dotnet" />
+</p>
 
-### Tools & Version Control
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,sqlite" />
+</p>
 
-### Cybersecurity
-<img src="https://img.shields.io/badge/Cybersecurity-0A0A0A?style=for-the-badge" alt="Cybersecurity" />
+---
 
-### Currently Learning
-<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+## 📊 GitHub Statistics
+
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical"/>
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=15&no-frame=true&row=1"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+## 🌟 Current Focus
+
+```txt
+✓ Building Desktop Applications with C# & WinForms
+✓ Learning ASP.NET Core
+✓ Working on Management & Inventory Systems
+✓ Improving Python Skills
+✓ Practicing Clean Code & Best Practices
