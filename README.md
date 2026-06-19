@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&text=Samsul&fontSize=70&fontColor=ffffff&color=0:0f172a,50:2563eb,100:06b6d4&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&text=Hesham&fontSize=70&fontColor=ffffff&color=0:0f172a,50:2563eb,100:06b6d4&animation=fadeIn"/>
 
 <h1 align="center">👋 Welcome to My GitHub Profile</h1>
 
@@ -50,8 +50,8 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MHeshamTr&show_icons=true&theme=radical&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHeshamTr&layout=compact&theme=radical"/>
 </div>
 
 ---
@@ -59,7 +59,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=MHeshamTr&theme=radical&hide_border=true"/>
 </p>
 
 ---
@@ -67,7 +67,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=15&no-frame=true&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MHeshamTr&theme=algolia&margin-w=15&no-frame=true&row=1"/>
 </p>
 
 ---
@@ -75,7 +75,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MHeshamTr&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
